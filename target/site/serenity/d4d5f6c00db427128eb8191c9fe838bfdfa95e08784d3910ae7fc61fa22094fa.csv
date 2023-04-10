@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to OrangeHRM","Login with valid credentials","ERROR","2023-03-25T11:34:56.8026984+05:30[Asia/Calcutta]","0.0","19.68"
+"Login to SRK","Login with valid credentials","ERROR","2023-04-07T16:40:12.4471272+05:30[Asia/Calcutta]","0.0","29.68"

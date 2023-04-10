@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to SRK","Login with Blank Credentials","FAILURE","2023-03-25T12:33:24.5759208+05:30[Asia/Calcutta]","0.0","26.32"
+"Login to SRK","Register User","FAILURE","2023-03-27T13:57:20.0563683+05:30[Asia/Calcutta]","0.0","16.64"
+"Login to SRK","Login with valid credentials","ERROR","2023-04-07T16:40:12.4471272+05:30[Asia/Calcutta]","0.0","29.68"
